@@ -58,4 +58,11 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo.Sheets.sql" />
+    <Build Include="dbo.Items.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="local-todo.publish.publish.xml" />
+  </ItemGroup>
 </Project>

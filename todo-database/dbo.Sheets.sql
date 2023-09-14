@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Sheets]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Title] NVARCHAR(255) NOT NULL, 
+    [Description] NVARCHAR(255) NULL, 
+    [UserId] UNIQUEIDENTIFIER NOT NULL 
+)
