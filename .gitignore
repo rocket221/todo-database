@@ -227,6 +227,7 @@ UpgradeLog*.htm
 *.ndf
 *.pubxml
 *.pubxml.user
+*.publish.xml
 
 # Business Intelligence projects
 *.rdl.data
